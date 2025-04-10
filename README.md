@@ -1,16 +1,16 @@
 ## Hi there 👋
 
 <!--
-**VikramR001/VikramR001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### VikramR001
 
-Here are some ideas to get you started:
+👋 Hi there! I'm Vikram.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 I'm currently learning and exploring new technologies.
+👯 I'm looking to collaborate on interesting projects.
+🤔 Skills always sharpen your mind
+💬 How to reach me: [vicky4122003@gmail.com](mailto:vicky4122003@gmail.com) | +91 6380150477
+🔗 [LinkedIn](https://www.linkedin.com/in/vikram-vikram-943141248)
+🔗 [My Portfolio (potentially)]()
+🗣️ Pronouns: He/Him
+Fun fact: Always eager to learn something new!
 -->
